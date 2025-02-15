@@ -14,8 +14,9 @@ export default class App extends Component {
             <div className="center"
             style={{
                 background: 'linear-gradient(rgb(6, 72, 195) 0%, rgb(216, 14, 155) 100%)',
-                maxHeight:"100%",
-                maxWidth:"100%",
+                maxHeight:"77%",
+                maxWidth:"77%",
+                borderRadius:"16px"
             }}>
                 <Homepage />
             </div>
